@@ -1,0 +1,26 @@
+C:\Users\utilisateur\AppData\Local\Temporary Projects\E3C (Windows)\bin\Release\E3C (Windows).exe.config
+C:\Users\utilisateur\AppData\Local\Temporary Projects\E3C (Windows)\bin\Release\E3C (Windows).exe
+C:\Users\utilisateur\AppData\Local\Temporary Projects\E3C (Windows)\bin\Release\E3C (Windows).pdb
+C:\Users\utilisateur\AppData\Local\Temporary Projects\E3C (Windows)\bin\Release\E3C (Windows).xml
+C:\Users\utilisateur\AppData\Local\Temporary Projects\E3C (Windows)\obj\x86\Release\E3C__Windows_.Form1.resources
+C:\Users\utilisateur\AppData\Local\Temporary Projects\E3C (Windows)\obj\x86\Release\E3C__Windows_.Form2.resources
+C:\Users\utilisateur\AppData\Local\Temporary Projects\E3C (Windows)\obj\x86\Release\E3C__Windows_.Form3.resources
+C:\Users\utilisateur\AppData\Local\Temporary Projects\E3C (Windows)\obj\x86\Release\E3C__Windows_.Form4.resources
+C:\Users\utilisateur\AppData\Local\Temporary Projects\E3C (Windows)\obj\x86\Release\E3C__Windows_.Resources.resources
+C:\Users\utilisateur\AppData\Local\Temporary Projects\E3C (Windows)\obj\x86\Release\E3C (Windows).vbproj.GenerateResource.Cache
+C:\Users\utilisateur\AppData\Local\Temporary Projects\E3C (Windows)\obj\x86\Release\E3C (Windows).exe
+C:\Users\utilisateur\AppData\Local\Temporary Projects\E3C (Windows)\obj\x86\Release\E3C (Windows).xml
+C:\Users\utilisateur\AppData\Local\Temporary Projects\E3C (Windows)\obj\x86\Release\E3C (Windows).pdb
+C:\Users\utilisateur\documents\visual studio 2010\Projects\E3C (Windows)\E3C (Windows)\bin\Release\E3C (Windows).exe.config
+C:\Users\utilisateur\documents\visual studio 2010\Projects\E3C (Windows)\E3C (Windows)\obj\x86\Release\E3C (Windows).exe
+C:\Users\utilisateur\documents\visual studio 2010\Projects\E3C (Windows)\E3C (Windows)\obj\x86\Release\E3C (Windows).xml
+C:\Users\utilisateur\documents\visual studio 2010\Projects\E3C (Windows)\E3C (Windows)\obj\x86\Release\E3C (Windows).pdb
+C:\Users\utilisateur\documents\visual studio 2010\Projects\E3C (Windows)\E3C (Windows)\bin\Release\E3C (Windows).exe
+C:\Users\utilisateur\documents\visual studio 2010\Projects\E3C (Windows)\E3C (Windows)\bin\Release\E3C (Windows).pdb
+C:\Users\utilisateur\documents\visual studio 2010\Projects\E3C (Windows)\E3C (Windows)\bin\Release\E3C (Windows).xml
+C:\Users\utilisateur\documents\visual studio 2010\Projects\E3C (Windows)\E3C (Windows)\obj\x86\Release\E3C__Windows_.Form1.resources
+C:\Users\utilisateur\documents\visual studio 2010\Projects\E3C (Windows)\E3C (Windows)\obj\x86\Release\E3C__Windows_.Form2.resources
+C:\Users\utilisateur\documents\visual studio 2010\Projects\E3C (Windows)\E3C (Windows)\obj\x86\Release\E3C__Windows_.Form3.resources
+C:\Users\utilisateur\documents\visual studio 2010\Projects\E3C (Windows)\E3C (Windows)\obj\x86\Release\E3C__Windows_.Form4.resources
+C:\Users\utilisateur\documents\visual studio 2010\Projects\E3C (Windows)\E3C (Windows)\obj\x86\Release\E3C__Windows_.Resources.resources
+C:\Users\utilisateur\documents\visual studio 2010\Projects\E3C (Windows)\E3C (Windows)\obj\x86\Release\E3C (Windows).vbproj.GenerateResource.Cache
